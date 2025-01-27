@@ -20,4 +20,3 @@ menor = min(numero_1, numero_2, numero_3)
 print(f"O maior número é: {maior}")
 print(f"O menor número é: {menor}")
 
-# Alteração mínima para commit

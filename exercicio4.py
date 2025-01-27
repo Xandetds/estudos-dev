@@ -6,3 +6,4 @@ for i in range(1, numero + 1):
 
 print(f"O fatorial de {numero} é: {fatorial}")
 
+# Alteração mínima para commit
