@@ -14,3 +14,4 @@ if primo:
     print(f"{numero} é um número primo.")
 else:
     print(f"{numero} não é um número primo.")
+

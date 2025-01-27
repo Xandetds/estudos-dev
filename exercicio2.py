@@ -9,5 +9,6 @@ while True:
 
 print(f"A soma de todos os números positivos digitados é: {soma}")
 
+# Alteração mínima para commit
 
 

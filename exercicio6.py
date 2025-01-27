@@ -15,4 +15,4 @@ for aluno in alunos:
     if nota > media:
         print(f"{nome}: {nota}")
 
-# Alteração mínima para commit
+
