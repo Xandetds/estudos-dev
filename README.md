@@ -8,7 +8,7 @@ Vou atualizando esse repositório conforme avanço no desafio.
 
 ## Progresso  
 
-### Semana 1 - Lógica de Programação  
+### Semana 1 - Lógica de Programação  ✅
 Dia 1: Introdução à lógica de programação. Conceitos básicos como algoritmos, entrada, processamento e saída.  
 Dia 2: Estruturas de decisão (if/else) e operadores lógicos.  
 Dia 3: Estruturas de repetição (while, for).  
@@ -19,7 +19,12 @@ Dia 5: Funções em programação.
 - Funcionamento da Internet: Servidores, clientes, roteadores.  
 - Protocolo HTTP: Métodos (GET, POST, PUT, DELETE) e códigos de status.  
 - APIs REST: Como funciona a comunicação cliente-servidor.  
-- Prática: Fazer requisições para APIs públicas.  
+- Prática: Fazer requisições para APIs públicas. 
+
+Essa semana o foco foi mais teórico, estudando o funcionamento do protocolo HTTP e APIs REST.  
+Não há código novo para postar no repositório, mas segui estudando sobre requisições, métodos HTTP e códigos de status.  
+Na próxima etapa, pretendo aplicar esse conhecimento em um projeto prático.
+ 
 
 ### Semanas 3 a 6 (Próximos passos...)  
 - React.js: Componentes, estado, rotas.  
