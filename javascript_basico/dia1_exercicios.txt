@@ -1,0 +1,86 @@
+                                                                 VARIABLES
+// Meu primeiro codigo de JavaScript!
+console.log ("hello world");
+
+let name = 'xande';
+console.log (name)
+
+// Não pode ser uma palavra chave
+// Tem que ter signficado
+// Não pode começar com um número (1name)
+// Não pode ter espaço ou traço (O convencional é separar assim= javaScript, firstName)
+
+let firstName = 'Alexandre';
+let lastName = 'Tibes da Silva';
+
+/////////////////////////////////////////////////////////////
+                                                             CONSTANTS
+
+let interestRate = 0.3;
+// se for const ao inves de let da erro
+interestRate = 1;
+console.log (interestRate)
+
+/////////////////////////////////////////////////////////////
+                                                             PRIMITIVE TYPES/DYNAMIC TYPING
+
+let name = 'xande'; // String literal
+let age = 18; // Number literal
+let isApproved = true; // Boolean literal
+let firstName = undefined;
+let selectedColor = null;   
+
+/////////////////////////////////////////////////////////////
+                                                             OBJECTS
+
+let person = {
+name: 'xande',
+age: 18
+};
+
+// da pra descobrir a propriedade colocando um ponto e vendo o que tem dentro
+person.name = 'joao'
+
+// tambem da com colchete mais usado quando nao sabe a variavel que vai usar e deixa o usuario escolher
+let selection = 'name'
+person[selection] = 'maria'
+
+
+console.log (person.name);
+
+/////////////////////////////////////////////////////////////
+                                                             ARRAYS
+
+let selectedColors = ['red', 'blue'];
+selectedColors[2] = 'green';
+// da para fazer com varios tipos de variavel como um numero(selectedColors[2] = '1';)
+console.log (selectedColors);
+// da pra selecionar a cor pelo numero (console.log (selectedColors[1]);)
+// da para fazer isso para descobrir os valores (console.log (selectedColors.length);)
+
+/////////////////////////////////////////////////////////////
+                                                             FUNCTIONS, TYPES OF FUNCTIONS
+
+
+// Executando uma tarefa
+function cumprimento(name, lastName) {
+console.log('Olá ' + name + ' ' + lastName);
+}
+// Nao precisa de ;
+
+greet('Alexandre', 'Tibes');
+greet('João');
+
+
+// Calculando um valor
+function aoQuadrado(number) {
+  return number * number;
+}
+
+console.log(aoQuadrado(2))
+
+
+
+
+
+
