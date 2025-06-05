@@ -1,46 +1,45 @@
-Estudos Dev: Desafio de Programação e Desenvolvimento de Software
-Descrição
-Este repositório foi criado para documentar e abrigar um desafio pessoal de programação de 30 dias, focado em construir uma base sólida em lógica de programação, JavaScript, React.js e desenvolvimento backend com Python. O objetivo era seguir um plano de estudos estruturado para aprimorar minhas habilidades em desenvolvimento de software.
+# Estudos Dev: Desafio de Programação e Desenvolvimento de Software
 
-Plano de Estudos Original
-O plano de estudos foi inicialmente dividido em seis semanas, cobrindo diferentes aspectos do desenvolvimento web:
+## Descrição do Projeto
 
-Semana 1: Fundamentos de Programação e Lógica (Python)
+Este repositório documenta um desafio pessoal de programação de 30 dias com o objetivo de construir uma base sólida em desenvolvimento de software. O foco foi aprimorar habilidades em lógica de programação, JavaScript, React.js e backend com Python, seguindo um plano de estudos estruturado.
 
-Semana 2: Introdução ao JavaScript
+## Plano de Estudos Original
 
-Semana 3: Desenvolvimento Frontend com React.js
+O desafio foi inicialmente dividido em seis semanas, cobrindo os seguintes aspectos do desenvolvimento web:
 
-Semana 4: Backend com Python
+- Semana 1: Fundamentos de Programação e Lógica (Python)
+- Semana 2: Introdução ao JavaScript
+- Semana 3: Desenvolvimento Frontend com React.js
+- Semana 4: Backend com Python
+- Semana 5: Integração Full-stack
+- Semana 6: Projetos e Desafios Finais
 
-Semana 5: Integração Full-stack
+## Tecnologias e Conteúdo Coberto (Até a Pausa)
 
-Semana 6: Projetos e Desafios Finais
+Explore as tecnologias e os conceitos que comecei a dominar neste desafio:
 
-Tecnologias e Conteúdo Coberto (até o momento da pausa)
-Python: Lógica de programação
+- Python: Foco em lógica de programação básica, incluindo variáveis, operadores, estruturas de controle de fluxo e funções.
+- JavaScript: Fundamentos da linguagem, como tipos de dados, condicionais, loops e manipulação do DOM.
+- React.js: Embora os exercícios iniciais neste repositório sejam básicos, obtive uma sólida base em desenvolvimento frontend, incluindo React, através de estudos e aulas recentes na faculdade.
 
-JavaScript: Fundamentos
+## Status do Projeto
 
-React.js: Embora a pasta de exercícios iniciais seja básica, obtive uma sólida base em desenvolvimento frontend, incluindo React, através de estudos e aulas recentes.
+Este projeto está atualmente em hiato. O desenvolvimento foi pausado devido ao início de novos compromissos acadêmicos e projetos da faculdade, que exigiram meu foco total.
 
-Status do Projeto
-Este projeto está atualmente em hiato. O desenvolvimento foi pausado devido ao início de novos compromissos acadêmicos e profissionais.
-
-Embora o desafio não tenha sido concluído no prazo original, ele foi fundamental para solidificar minhas bases em lógica de programação e uma compreensão fundamental sobre o funcionamento da internet e desenvolvimento frontend, incluindo conceitos de React, através de estudos e aulas recentes. O conhecimento adquirido tem sido diretamente aplicado em projetos mais recentes.
+Apesar da pausa, este desafio foi fundamental para solidificar minhas bases em lógica de programação e me proporcionou uma compreensão fundamental sobre o funcionamento da internet e desenvolvimento frontend. O conhecimento adquirido tem sido diretamente aplicado em projetos mais recentes e complexos, como o Projeto-BD.
 
 Futuramente, pretendo revisar e, se possível, retomar este desafio para continuar aprofundando meus conhecimentos, ou extrair os aprendizados para novos projetos mais focados.
 
-Como Visualizar e Entender o Conteúdo
-Cada pasta neste repositório contém exercícios e anotações dos tópicos estudados:
+## Conteúdo do Repositório
 
-logica_python/: Exercícios de lógica de programação em Python.
+Cada pasta aqui contém exercícios e anotações dos tópicos estudados:
 
-javascript_basico/: Fundamentos de JavaScript.
+- logica_python/: Exercícios de lógica de programação em Python.
+- javascript_basico/: Fundamentos de JavaScript.
+- exercicios_react/: Exercícios e conceitos iniciais de React.js.
+- calculadora.py: Um exemplo de aplicação simples em Python.
 
-exercicios_react/: Exercícios e conceitos iniciais de React.js.
+## Autor
 
-calculadora.py: Um exemplo de aplicação simples.
-
-Autor
 Alexandre Tibes da Silva
