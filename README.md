@@ -1,94 +1,46 @@
-# 30 Dias de Programação 🚀  
+Estudos Dev: Desafio de Programação e Desenvolvimento de Software
+Descrição
+Este repositório foi criado para documentar e abrigar um desafio pessoal de programação de 30 dias, focado em construir uma base sólida em lógica de programação, JavaScript, React.js e desenvolvimento backend com Python. O objetivo era seguir um plano de estudos estruturado para aprimorar minhas habilidades em desenvolvimento de software.
 
-Este repositório documenta meu progresso no desafio 30 Dias de Programação, focado no desenvolvimento de software. O objetivo é construir uma base sólida passando por **lógica de programação, JavaScript, React.js e backend com Python**.  
+Plano de Estudos Original
+O plano de estudos foi inicialmente dividido em seis semanas, cobrindo diferentes aspectos do desenvolvimento web:
 
----
+Semana 1: Fundamentos de Programação e Lógica (Python)
 
-## 📆 **Cronograma de Estudos**  
+Semana 2: Introdução ao JavaScript
 
-### **Semana 1 - Fundamentos da Programação**  
-📌 Objetivo: Aprender lógica de programação e estrutura de dados básica.  
-- Algoritmos, entrada e saída de dados  
-- Estruturas de decisão (`if/else`) e operadores lógicos  
-- Laços de repetição (`for`, `while`)  
-- Listas, pilhas e filas  
-- Funções e recursividade  
-- Manipulação de strings  
-- Busca e ordenação de dados  
-- **Projeto prático:** Pequeno programa aplicando os conceitos  
-📂 Código disponível em: `logica_python/`  
+Semana 3: Desenvolvimento Frontend com React.js
 
----
+Semana 4: Backend com Python
 
-### **Semana 2 - Como a Internet Funciona e APIs**  
-📌 Objetivo: Compreender conceitos fundamentais de redes e comunicação entre cliente e servidor.  
-- Como a internet funciona (servidores, clientes, DNS, IPs)  
-- Estrutura de requisições HTTP  
-- Métodos HTTP (`GET`, `POST`, `PUT`, `DELETE`)  
-- APIs REST e boas práticas  
-- Consumo de APIs públicas com ferramentas como Postman  
-📂 Semana teórica, sem código postado no repositório  
+Semana 5: Integração Full-stack
 
----
+Semana 6: Projetos e Desafios Finais
 
-### **Semana 3 - JavaScript Essencial para React**  
-📌 Objetivo: Aprender JavaScript básico antes de iniciar o React.js  
-- **Dia 1:** Introdução ao JavaScript → variáveis, tipos de dados, funções  
-- **Dia 2:** Arrays, objetos e manipulação do DOM  
-- **Dia 3:** Eventos, callbacks, Promises e async/await  
-- **Dia 4:** Praticando JavaScript com pequenos projetos  
-- **Dia 5:** Revisão e conexão entre JavaScript e React  
-📂 Código disponível em: `javascript_basico/`  
+Tecnologias e Conteúdo Coberto (até o momento da pausa)
+Python: Lógica de programação
 
----
+JavaScript: Fundamentos
 
-### **Semana 4 - Criando o Primeiro Site com React**  
-📌 Objetivo: Criar aplicações web dinâmicas com React.js, aprendendo sobre componentes, estado e eventos.  
-- Configuração do ambiente com Vite  
-- Estrutura e organização de componentes  
-- JSX e sintaxe declarativa  
-- Props e composição de componentes  
-- Estado e `useState`  
-- Manipulação de eventos e formulários  
-- Listas, renderização condicional e boas práticas  
-📂 Código disponível em: `exercicios_react/`  
+React.js: Embora a pasta de exercícios iniciais seja básica, obtive uma sólida base em desenvolvimento frontend, incluindo React, através de estudos e aulas recentes.
 
----
+Status do Projeto
+Este projeto está atualmente em hiato. O desenvolvimento foi pausado devido ao início de novos compromissos acadêmicos e profissionais.
 
-### **Semana 5 - Roteamento e Integração com APIs no React**  
-📌 Objetivo: Criar aplicações React que utilizam múltiplas páginas e consumo de APIs.  
-- React Router e navegação entre páginas  
-- Autenticação e proteção de rotas  
-- Requisições assíncronas com fetch e axios  
-- Boas práticas no consumo de APIs  
-📂 Código disponível em: `projetos_react/`  
+Embora o desafio não tenha sido concluído no prazo original, ele foi fundamental para solidificar minhas bases em lógica de programação e uma compreensão fundamental sobre o funcionamento da internet e desenvolvimento frontend, incluindo conceitos de React, através de estudos e aulas recentes. O conhecimento adquirido tem sido diretamente aplicado em projetos mais recentes.
 
----
+Futuramente, pretendo revisar e, se possível, retomar este desafio para continuar aprofundando meus conhecimentos, ou extrair os aprendizados para novos projetos mais focados.
 
-### **Semana 6 - Backend com Python e Integração**  
-📌 Objetivo: Construir um backend simples em Python para fornecer dados para o frontend React.  
-- Criando uma API REST com FastAPI ou Flask  
-- Implementando rotas (`GET`, `POST`, `PUT`, `DELETE`)  
-- Conectando a API com um banco de dados  
-- Criando autenticação básica  
-📂 Código disponível em: `backend_python/`  
+Como Visualizar e Entender o Conteúdo
+Cada pasta neste repositório contém exercícios e anotações dos tópicos estudados:
 
----
+logica_python/: Exercícios de lógica de programação em Python.
 
-## 🎯 **Objetivo Final**  
-Após essas 6 semanas, terei experiência prática com **JavaScript, React.js, consumo de APIs, navegação entre páginas e criação de backend com Python**. O foco é desenvolver projetos reais e construir um **portfólio sólido para o mercado de trabalho**.  
+javascript_basico/: Fundamentos de JavaScript.
 
----
+exercicios_react/: Exercícios e conceitos iniciais de React.js.
 
-## 🔗 **Estrutura do Repositório**  
-📂 exercicios-python/
-├── logica_python/ # Exercícios de lógica de programação
-├── javascript_basico/ # Exercícios de JavaScript
-├── exercicios_react/ # Projetos em React
-├── backend_python/ # Backend com Flask ou FastAPI
-├── README.md # Explicação do desafio
-Após essas 6 semanas, terei experiência prática com **React.js, consumo de APIs, navegação entre páginas e criação de backend com Python**. O foco é **desenvolver projetos reais** e ter um portfólio sólido para o mercado de trabalho.
+calculadora.py: Um exemplo de aplicação simples.
 
-**Atualizações serão feitas conforme avanço no desafio.**  
-
-
+Autor
+Alexandre Tibes da Silva
