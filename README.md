@@ -1,45 +1,31 @@
-# Estudos Dev: Desafio de Programação e Desenvolvimento de Software
+# estudos-dev
 
-## Descrição do Projeto
+Este repositório serve como um espaço dedicado para documentar meu processo de aprendizado contínuo e a prática de diversas tecnologias e conceitos de desenvolvimento de software.
 
-Este repositório documenta um desafio pessoal de programação de 30 dias com o objetivo de construir uma base sólida em desenvolvimento de software. O foco foi aprimorar habilidades em lógica de programação, JavaScript, React.js e backend com Python, seguindo um plano de estudos estruturado.
+O objetivo principal é solidificar e expandir minhas habilidades em programação, lógica, frontend (JavaScript/React.js), backend (Python/Django, Java/Spring) e banco de dados (SQL/PostgreSQL), através de exercícios, pequenos projetos e desafios.
 
-## Plano de Estudos Original
+---
 
-O desafio foi inicialmente dividido em seis semanas, cobrindo os seguintes aspectos do desenvolvimento web:
+## Estrutura do Repositório
 
-- Semana 1: Fundamentos de Programação e Lógica (Python)
-- Semana 2: Introdução ao JavaScript
-- Semana 3: Desenvolvimento Frontend com React.js
-- Semana 4: Backend com Python
-- Semana 5: Integração Full-stack
-- Semana 6: Projetos e Desafios Finais
+O conteúdo está organizado da seguinte forma:
 
-## Tecnologias e Conteúdo Coberto (Até a Pausa)
+* **`antigos/`**: Contém os exercícios e arquivos das semanas iniciais de um desafio pessoal anterior .
+* **`python/`**: Exercícios, scripts e pequenos projetos focados na linguagem Python e seus ecossistemas.
+* **`javascript/`**: Exercícios, desafios e práticas envolvendo JavaScript puro e conceitos modernos (ES6+).
+* **`react/`**: Componentes, projetos e experimentos com o framework React.js.
+* **`sql/`**: Consultas, modelagem de banco de dados e exercícios práticos de SQL (PostgreSQL).
 
-Explore as tecnologias e os conceitos que comecei a dominar neste desafio:
+---
 
-- Python: Foco em lógica de programação básica, incluindo variáveis, operadores, estruturas de controle de fluxo e funções.
-- JavaScript: Fundamentos da linguagem, como tipos de dados, condicionais, loops e manipulação do DOM.
-- React.js: Embora os exercícios iniciais neste repositório sejam básicos, obtive uma sólida base em desenvolvimento frontend, incluindo React, através de estudos e aulas recentes na faculdade.
+## Meus Objetivos Atuais
 
-## Status do Projeto
+Neste momento, o foco principal é:
+1.  **Solidificar as bases** em Python, JavaScript e SQL para construir maior confiança.
+2.  **Desenvolver projetos práticos** para aplicar o conhecimento e construir um portfólio no GitHub.
 
-Este projeto está atualmente em hiato. O desenvolvimento foi pausado devido ao início de novos compromissos acadêmicos e projetos da faculdade, que exigiram meu foco total.
+---
 
-Apesar da pausa, este desafio foi fundamental para solidificar minhas bases em lógica de programação e me proporcionou uma compreensão fundamental sobre o funcionamento da internet e desenvolvimento frontend. O conhecimento adquirido tem sido diretamente aplicado em projetos mais recentes e complexos, como o Projeto-BD.
+## Como Acompanhar
 
-Futuramente, pretendo revisar e, se possível, retomar este desafio para continuar aprofundando meus conhecimentos, ou extrair os aprendizados para novos projetos mais focados.
-
-## Conteúdo do Repositório
-
-Cada pasta aqui contém exercícios e anotações dos tópicos estudados:
-
-- logica_python/: Exercícios de lógica de programação em Python.
-- javascript_basico/: Fundamentos de JavaScript.
-- exercicios_react/: Exercícios e conceitos iniciais de React.js.
-- calculadora.py: Um exemplo de aplicação simples em Python.
-
-## Autor
-
-Alexandre Tibes da Silva
+Cada pasta de tecnologia conterá subpastas ou arquivos organizados por tópico ou data, facilitando a navegação e o acompanhamento do progresso.
