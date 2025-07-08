@@ -1,4 +1,3 @@
-#
 # **Exercício:** Crie uma função em Python que receba a idade de uma pessoa como argumento
 # e retorne uma mensagem indicando se ela está apta a votar ou não.
 #

@@ -1,5 +1,3 @@
-# exercicio03.py
-#
 # **Exercício:** Crie uma função em Python que receba uma string (frase/parágrafo)
 # e retorne um dicionário com a contagem de cada palavra.
 #

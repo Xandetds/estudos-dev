@@ -1,5 +1,3 @@
-#  Exercício 04 – Contagem de letras (sem acentos e sem espaços)
-#
 # Crie uma função em Python chamada contar_letras que recebe uma frase (string)
 # como parâmetro e retorna um dicionário com a quantidade de vezes que cada letra
 # aparece na frase.
