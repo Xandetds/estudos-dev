@@ -8,13 +8,7 @@
 # **Regras:**
 # - Desconsidere letras maiúsculas/minúsculas.
 # - Desconsidere espaços em branco.
-#
-# **Exemplos de entrada e saída esperada:**
-# verificar_palindromo("arara")          => True
-# verificar_palindromo("Ame o poema")    => True
-# verificar_palindromo("Python")         => False
-#
-# **Dica:** Use os métodos `.lower()` e `.replace()` da string para facilitar o tratamento.
+
 
 def verificar_palindromo(palavra):
     palavra = palavra.lower()
