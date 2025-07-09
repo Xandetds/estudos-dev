@@ -6,8 +6,3 @@
 #
 # **Regras:**
 # - Não use `set()` para resolver diretamente. Use loops e condicionais.
-#
-# **Exemplos de entrada e saída esperada:**
-# remover_duplicatas([1, 2, 2, 3, 4, 3, 5]) => [1, 2, 3, 4, 5] (ordem pode variar)
-# remover_duplicatas(['a', 'b', 'a', 'c', 'b']) => ['a', 'b', 'c'] (ordem pode variar)
-# remover_duplicatas([]) => []

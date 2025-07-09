@@ -7,12 +7,4 @@
 # - Um ano é bissexto se for divisível por 4.
 # - EXCEÇÃO: Anos divisíveis por 100 NÃO são bissextos, a menos que...
 # - EXCEÇÃO DA EXCEÇÃO: ...sejam divisíveis por 400.
-#
-# **Exemplos de entrada e saída esperada:**
-# eh_ano_bissexto(2000) => True
-# eh_ano_bissexto(1900) => False
-# eh_ano_bissexto(2024) => True
-# eh_ano_bissexto(2023) => False
-# eh_ano_bissexto(1600) => True
-
 
