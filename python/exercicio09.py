@@ -4,9 +4,7 @@
 # **Regras:**
 # - A lista sempre terá pelo menos um número.
 # - Não use a função `max()` do Python (faça usando lógica e comparação).
-#
-# **Exemplo de entrada para a função:**
-# numeros = [10, 5, 8, 20, 3]
+
 
 def maior_valor(numeros):
     lista_numeros = numeros[0]
