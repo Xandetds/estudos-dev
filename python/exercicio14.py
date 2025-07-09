@@ -23,3 +23,46 @@
 #
 # 4. Senha **INVÁLIDA**:
 #    - Menos de 4 caracteres.
+
+def validar_senha(senha):
+    forte = 'Sua senha é forte'
+    media = 'Sua senha é média'
+    fraca = 'Sua senha é fraca'
+    invalida = 'Sua senha é inválida'
+
+    tem_maiuscula = False
+    tem_minuscula = False
+    tem_numero = False
+    tem_especial = False
+
+    especiais = '!@#$%&.,;:(){}[]*?'
+
+    for caractere in senha:
+        if caractere.isupper():
+            tem_maiuscula = True
+        if caractere.islower():
+            tem_minuscula = True
+        if caractere.isdigit():
+            tem_numero = True
+        if caractere in especiais:
+            tem_especial = True
+
+    tipos = sum([tem_maiuscula, tem_minuscula, tem_numero, tem_especial])
+
+    if len(senha) < 4:
+        return invalida
+    elif len(senha) >= 8 and tipos == 4:
+        return forte
+    elif len(senha) >= 6 and tipos >= 3:
+        return media
+    elif len(senha) >= 4 and tipos in [1, 2]:
+        return fraca
+    else:
+        return invalida
+    
+
+
+senha_usuario = input("Digite uma senha: ")
+resultado = validar_senha(senha_usuario)
+print(resultado)
+
