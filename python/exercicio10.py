@@ -2,14 +2,6 @@
 # uma string como argumento e retorne duas informações:
 # - A quantidade de letras maiúsculas na string.
 # - A quantidade de letras minúsculas na string.
-#
-# **Exemplo de entrada:**
-# texto = "Python É Incrível!"
-#
-# **Saída esperada:**
-#  (3, 11)
-#
-# **Dica:** Use os métodos `.isupper()` e `.islower()` em um loop que percorre a string.
 
 
 def contar_maiusculas_minusculas(frase):
