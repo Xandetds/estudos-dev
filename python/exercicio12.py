@@ -10,3 +10,13 @@
 # tem_caractere_especial("apenasletras")  => False
 
 
+def um_caractere_especial(frase):
+    especiais = "!@#$%&*?"
+    for caractere in frase:
+        if caractere in especiais:
+            return True
+    return False
+
+frase_usuario = input("Digite uma frase: ")
+resultado = um_caractere_especial(frase_usuario)
+print(resultado)
