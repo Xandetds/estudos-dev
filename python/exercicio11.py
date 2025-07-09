@@ -1,4 +1,4 @@
-# **Exercício:** Crie uma função em Python chamada `tem_numero` que receba uma string
+# Crie uma função em Python chamada `tem_numero` que receba uma string
 # como argumento e retorne True se essa string contiver **pelo menos um número** (de 0 a 9),
 # e False caso contrário.
 #

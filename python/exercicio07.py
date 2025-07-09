@@ -1,4 +1,4 @@
-# **Exercício:** Crie uma função em Python chamada 'filtrar_pares' que receba
+# Crie uma função em Python chamada 'filtrar_pares' que receba
 # uma lista de números inteiros como argumento.
 #
 # A função deve retornar uma NOVA lista contendo APENAS os números pares da lista original.

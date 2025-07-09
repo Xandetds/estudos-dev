@@ -1,4 +1,4 @@
-# **Exercício:** Escreva um programa em Python que imprima os números de 1 a 100.
+# Escreva um programa em Python que imprima os números de 1 a 100.
 # Para múltiplos de três, imprima "Fizz" em vez do número.
 # Para múltiplos de cinco, imprima "Buzz".
 # Para números que são múltiplos tanto de três quanto de cinco, imprima "FizzBuzz".

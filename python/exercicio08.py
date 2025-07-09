@@ -1,5 +1,4 @@
-
-#Crie uma função em Python chamada `verificar_palindromo` que receba
+# Crie uma função em Python chamada `verificar_palindromo` que receba
 # uma string como argumento e retorne True se for um palíndromo, e False caso contrário.
 #
 # Um palíndromo é uma palavra ou frase que é lida da mesma forma de trás para frente,

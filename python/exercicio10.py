@@ -1,4 +1,4 @@
-# **Exercício:** Crie uma função chamada `contar_maiusculas_minusculas` que receba
+# Crie uma função chamada `contar_maiusculas_minusculas` que receba
 # uma string como argumento e retorne duas informações:
 # - A quantidade de letras maiúsculas na string.
 # - A quantidade de letras minúsculas na string.

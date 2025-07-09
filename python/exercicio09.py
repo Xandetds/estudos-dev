@@ -1,4 +1,4 @@
-# **Exercício:** Crie uma função chamada `maior_valor` que receba uma lista de números inteiros
+# Crie uma função chamada `maior_valor` que receba uma lista de números inteiros
 # e retorne o maior número presente na lista.
 #
 # **Regras:**
