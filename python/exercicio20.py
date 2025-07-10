@@ -7,3 +7,14 @@
 # **Regras:**
 # - As listas podem ter tamanhos diferentes se houver duplicatas.
 # - Não use a conversão direta para `set()` para comparar. Pense em contar ocorrências ou ordenar.
+
+
+def listas_sao_iguais(lista1, lista2):
+    return sorted(lista1) == sorted(lista2)
+  
+            
+            
+lista1_usuario = ['1', '2', '3', '4', 'vaca']
+lista2_usuario = ['1', '2', '3', '4', 'vaca', 'boi']
+resultado = listas_sao_iguais(lista1_usuario, lista2_usuario)
+print(resultado)
