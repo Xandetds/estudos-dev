@@ -8,3 +8,24 @@
 # **Regras:**
 # - A comparação de letras deve ser case-insensitive.
 # - A string `letras_adivinhadas` contém todas as letras que o jogador já tentou.
+
+def verificar_letra_oculta(palavra_secreta, letras_adivinhadas):
+    palavra = ''
+    letras_adivinhadas = letras_adivinhadas.lower()
+    
+    for letra in palavra_secreta:
+        if not letra.isalpha():
+            palavra += letra
+        elif letra.lower() in letras_adivinhadas:
+            palavra += letra
+        else:
+            palavra += '_'
+    
+    return palavra
+
+
+
+palavra_secreta_usuario = input("Digite uma palavra secreta: ")
+letras_adivinhadas_usuario = input("Digite uma letra que você acha que está na palavra: ")
+resultado = verificar_letra_oculta(palavra_secreta_usuario, letras_adivinhadas_usuario)
+print(resultado)
