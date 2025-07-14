@@ -6,3 +6,13 @@
 # **Regras:**
 # - A lista de opções não estará vazia.
 # - A escolha deve ser puramente aleatória.
+
+import random
+
+def escolher_opcao_aleatoria(opcoes):
+    return random.choice(opcoes)
+    
+opcoes_str = input("Digite opções separadas por um espaço: ")
+opcoes_user = opcoes_str.split()
+resultado = escolher_opcao_aleatoria(opcoes_user)
+print(resultado)
