@@ -5,3 +5,12 @@
 #
 # **Regras:**
 # - A lista não estará vazia.
+
+import random
+
+def sortear_elemento(lista):
+    return random.choice(lista)
+
+lista = ['elemento 1', 'elemento 2', 'elemento 3']
+resultado = sortear_elemento(lista)
+print(resultado)
