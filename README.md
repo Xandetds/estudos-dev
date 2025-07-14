@@ -2,7 +2,7 @@
 
 Este repositório serve como um espaço dedicado para documentar meu processo de aprendizado contínuo e a prática de diversas tecnologias e conceitos de desenvolvimento de software.
 
-O objetivo principal é solidificar e expandir minhas habilidades em programação, lógica, frontend (JavaScript/React.js), backend (Python/Django, Java/Spring) e banco de dados (SQL/PostgreSQL), através de exercícios, pequenos projetos e desafios.
+O objetivo principal é solidificar e expandir minhas habilidades em programação, lógica, frontend, backend e banco de dados, através de exercícios, pequenos projetos e desafios.
 
 ---
 
