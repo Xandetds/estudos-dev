@@ -3,6 +3,8 @@
 // Crie um script que declare duas variáveis de string.
 // Concatene-as para formar uma nova frase e imprima essa frase no console.
 //
-// **Exemplos:**
-// parte1 = "JavaScript é", parte2 = "incrível!"
-// Saída: "JavaScript é incrível!"
+
+let string1 = 'numero 42';
+let string2 = 'numero 45';
+
+console.log(`O  ${string1} é menor que o ${string2}`);
