@@ -8,3 +8,12 @@
 // var_string = "Olá" => "Valor: Olá, Tipo: string"
 // var_numero = 10 => "Valor: 10, Tipo: number"
 
+let nome = "Alexandre"; 
+let idade = 25;       
+let altura = 1.75;    
+let estaEstudando = true; 
+
+console.log(`Valor: ${nome}, Tipo: ${typeof nome}`);
+console.log(`Valor: ${idade}, Tipo: ${typeof idade}`);
+console.log(`Valor: ${altura}, Tipo: ${typeof altura}`);
+console.log(`Valor: ${estaEstudando}, Tipo: ${typeof estaEstudando}`);
