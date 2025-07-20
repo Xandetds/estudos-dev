@@ -1,31 +1,46 @@
 # estudos-dev
 
-Este repositório serve como um espaço dedicado para documentar meu processo de aprendizado contínuo e a prática de diversas tecnologias e conceitos de desenvolvimento de software.
+[![Status](https://img.shields.io/badge/Status-Em%20Progresso-blue?style=for-the-badge)]()
 
-O objetivo principal é solidificar e expandir minhas habilidades em programação, lógica, frontend, backend e banco de dados, através de exercícios, pequenos projetos e desafios.
+📚 Repositório pessoal dedicado ao meu processo de aprendizado contínuo em desenvolvimento de software.
+
+Aqui documento estudos, práticas e projetos com foco em **lógica de programação**, **frontend**, **backend** e **banco de dados**.
 
 ---
 
-## Estrutura do Repositório
+## 🗂️ Estrutura do Repositório
 
 O conteúdo está organizado da seguinte forma:
 
-* **`antigos/`**: Contém os exercícios e arquivos das semanas iniciais de um desafio pessoal anterior.
-* **`python/`**: Exercícios, scripts e pastas com **projetos** focados na linguagem Python e seus ecossistemas.
-* **`javascript/`**: Exercícios, desafios e pastas com **projetos** envolvendo JavaScript puro e conceitos modernos (ES6+).
-* **`react/`**: Componentes, experimentos e pastas com **projetos** com o framework React.js.
-* **`sql/`**: Consultas, modelagem de banco de dados e pastas com **projetos** práticos de SQL (PostgreSQL).
+- **`antigos/`**  
+  Exercícios e arquivos das semanas iniciais de um desafio pessoal anterior.
+
+- **`python/`**  
+  Scripts, exercícios e projetos com foco em Python e seu ecossistema.
+
+- **`javascript/`**  
+  Desafios e projetos usando JavaScript moderno (ES6+).
+
+- **`react/`**  
+  Componentes e projetos explorando o framework React.js.
+
+- **`sql/`**  
+  Consultas, modelagens e projetos práticos com SQL (PostgreSQL).
 
 ---
 
-## Meus Objetivos Atuais
+## 🎯 Meus Objetivos Atuais
 
-Neste momento, o foco principal é:
-1.  **Solidificar as bases** em Python, JavaScript e SQL para construir maior confiança.
-2.  **Desenvolver projetos práticos** para aplicar o conhecimento e construir um portfólio no GitHub.
+1. **Refinar as bases** em Python, JavaScript e SQL, construindo maior segurança na prática.
+2. **Criar projetos reais** para aplicar conhecimento e reforçar meu portfólio no GitHub.
+
+> 💡 Atualmente estou focado no curso de Java, por isso este repositório está pausado temporariamente. Planejo retomar em breve com novos estudos e projetos.
+
 
 ---
 
-## Como Acompanhar
+## 🔍 Como Acompanhar
 
-Cada pasta de tecnologia conterá subpastas ou arquivos organizados por tópico ou data, facilitando a navegação e o acompanhamento do progresso.
+Cada pasta de tecnologia contém subpastas e arquivos organizados por tema ou data, facilitando a navegação e o acompanhamento da minha evolução.
+
+Sinta-se à vontade para explorar, sugerir melhorias ou trocar ideia!
