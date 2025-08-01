@@ -12,19 +12,22 @@ Aqui documento estudos, práticas e projetos com foco em **lógica de programaç
 
 O conteúdo está organizado da seguinte forma:
 
-- **`antigos/`**  
+- **`antigos/`**
   Exercícios e arquivos das semanas iniciais de um desafio pessoal anterior.
 
-- **`python/`**  
+- **`python/`**
   Scripts, exercícios e projetos com foco em Python e seu ecossistema.
 
-- **`javascript/`**  
+- **`javascript/`**
   Desafios e projetos usando JavaScript moderno (ES6+).
 
-- **`react/`**  
+- **`java/`**
+  Exercícios extras de Java, para complementar o estudo fora do curso principal.
+
+- **`react/`**
   Componentes e projetos explorando o framework React.js.
 
-- **`sql/`**  
+- **`sql/`**
   Consultas, modelagens e projetos práticos com SQL (PostgreSQL).
 
 ---
@@ -35,7 +38,6 @@ O conteúdo está organizado da seguinte forma:
 2. **Criar projetos reais** para aplicar conhecimento e reforçar meu portfólio no GitHub.
 
 > 💡 Atualmente estou focado no curso de Java, por isso este repositório está pausado temporariamente. Planejo retomar em breve com novos estudos e projetos.
-
 
 ---
 
