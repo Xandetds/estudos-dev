@@ -1,48 +1,47 @@
 # estudos-dev
 
-[![Status](https://img.shields.io/badge/Status-Em%20Progresso-blue?style=for-the-badge)]()
+📚 Repositório de treino de código — simples e direto.  
+Aqui organizo meus estudos práticos em **Algoritmos**, **Backend (Java/Spring)** e **Front (Angular/TypeScript)**.
 
-📚 Repositório pessoal dedicado ao meu processo de aprendizado contínuo em desenvolvimento de software.
+<div align="center">
 
-Aqui documento estudos, práticas e projetos com foco em **lógica de programação**, **frontend**, **backend** e **banco de dados**.
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
----
-
-## 🗂️ Estrutura do Repositório
-
-O conteúdo está organizado da seguinte forma:
-
-- **`antigos/`**
-  Exercícios e arquivos das semanas iniciais de um desafio pessoal anterior.
-
-- **`python/`**
-  Scripts, exercícios e projetos com foco em Python e seu ecossistema.
-
-- **`javascript/`**
-  Desafios e projetos usando JavaScript moderno (ES6+).
-
-- **`java/`**
-  Exercícios extras de Java, para complementar o estudo fora do curso principal.
-
-- **`react/`**
-  Componentes e projetos explorando o framework React.js.
-
-- **`sql/`**
-  Consultas, modelagens e projetos práticos com SQL (PostgreSQL).
+</div>
 
 ---
 
-## 🎯 Meus Objetivos Atuais
+## 🗂️ Estrutura
 
-1. **Refinar as bases** em Python, JavaScript e SQL, construindo maior segurança na prática.
-2. **Criar projetos reais** para aplicar conhecimento e reforçar meu portfólio no GitHub.
+- **`algoritmos/`**  
+  Desafios de lógica e estruturas de dados.
 
-> 💡 Atualmente estou focado no curso de Java, por isso este repositório está pausado temporariamente. Planejo retomar em breve com novos estudos e projetos.
+- **`backend-java/`**  
+  Mini-projetos em Java (geralmente Spring). Cada projeto fica em sua própria pasta.
+
+- **`front-angular/`**  
+  Workspace do Angular com projetos pequenos (componentes, formulários, HTTP, etc.).
+
+- **`antigos/`**  
+  Exercícios antigos de lógica reunidos num só lugar (podem estar em Python/JS/Java).
+
+- **`antigos/`**  
+  Arquivo histórico: rascunhos antigos.
 
 ---
 
-## 🔍 Como Acompanhar
+## 🎯 Objetivos atuais
 
-Cada pasta de tecnologia contém subpastas e arquivos organizados por tema ou data, facilitando a navegação e o acompanhamento da minha evolução.
+1. **Algoritmos:** fortalecer base e clareza de código.  
+2. **Backend (Java/Spring):** pequenas rotas bem feitas (validação, DTO, paginação).  
+3. **Front (Angular/TS):** telas simples consumindo o backend.
 
-Sinta-se à vontade para explorar, sugerir melhorias ou trocar ideia!
+
+---
+
+## 👤 Autor
+
+**Alexandre Tibes da Silva**  
