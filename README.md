@@ -28,8 +28,6 @@ Aqui organizo meus estudos práticos em **Algoritmos**, **Backend (Java/Spring)*
 - **`antigos/`**  
   Exercícios antigos de lógica reunidos num só lugar (podem estar em Python/JS/Java).
 
-- **`antigos/`**  
-  Arquivo histórico: rascunhos antigos.
 
 ---
 
